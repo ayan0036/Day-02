@@ -1,0 +1,17 @@
+Q:What are Modules in Node.js? 
+ANS:Modules in Node.js are small, independent blocks of code that perform specific        
+    tasks. They help in organizing code, making it reusable and easy to maintain. Node.js uses the CommonJS module system,               
+    where you can export and import code between files using module.exports and require(). 
+
+There are two main types of modules: 
+1:Core Modules 
+2:Custom Modules 
+
+* Use of the fs Module: 
+The fs module stands for File System, and it's a built-in module in Node.js. It allows you to work with the file system — such as creating, reading, writing, updating, or deleting files. 
+
+* In this project: 
+
+fs.writeFileSync() was used to write the result of math operations to a file named log.txt. 
+
+fs.readFileSync() was used to read the contents of log.txt and display it in the terminal.
