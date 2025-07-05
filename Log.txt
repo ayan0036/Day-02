@@ -1,0 +1,4 @@
+ Add (12 + 4) = 16
+Subtract (12 - 4) = 8
+Multiply (12 * 4) = 48
+Divide (12 / 4) = 3
